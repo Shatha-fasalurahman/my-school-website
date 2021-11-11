@@ -1,0 +1,27 @@
+img{
+    border-radius: 150%;
+  width: 300px;
+    
+}
+    
+body{
+    text-align: center;
+    
+}
+.menu {
+     font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+   
+}
+h3{
+    color: cornflowerblue;
+    font-family: cursive;
+}
+h1{
+  color: darkblue;
+    font-family: monospace;
+}
